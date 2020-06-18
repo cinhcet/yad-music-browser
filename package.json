@@ -1,0 +1,25 @@
+{
+  "name": "yad-music-browser",
+  "version": "0.0.1",
+  "description": "Music browser for dashboard",
+  "node-red": {
+    "nodes": {
+      "yad-music-browser": "yad-music-browser-node.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinhcet/yad-music-browser.git"
+  },
+  "keywords": [
+    "music",
+    "upnp",
+    "dashboard"
+  ],
+  "author": "cinhcet@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cinhcet/yad-music-browser/issues"
+  },
+  "homepage": "https://github.com/cinhcet/yad-music-browser#readme"
+}
